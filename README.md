@@ -12,9 +12,9 @@ O repositório está organizado da seguinte forma:
 
 ```
 /estudos
-│── /documentacao   # Documentação e anotações
+│── /resumos        # Resumos, documentação e anotações
 │── /exemplos       # Códigos de exemplo e práticas
-│── /materiais      # PDFs, artigos e referências
+│── /PDFs           # PDFs, artigos e referências
 │── /projetos       # Projetos práticos de estudo
 │── /testes         # Testes e experimentações
 └── README.md       # Este arquivo
