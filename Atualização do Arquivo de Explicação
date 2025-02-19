@@ -12,22 +12,27 @@ O repositório está organizado da seguinte forma:
 
 ```
 /estudos
-│── /resumos        # Resumos de conteúdos estudados
-│── /codigos        # Códigos de exemplo e práticas
-│── /pdfs           # Materiais em PDF
-│── /projetos       # Pequenos projetos de estudo
+│── /documentacao   # Documentação e anotações
+│── /exemplos       # Códigos de exemplo e práticas
+│── /materiais      # PDFs, artigos e referências
+│── /projetos       # Projetos práticos de estudo
+│── /testes         # Testes e experimentações
 └── README.md       # Este arquivo
 ```
 
 ## 🛠 Tecnologias e Ferramentas
 
 Os materiais podem abranger diversas linguagens e ferramentas, incluindo:
-- Front-End
-- Back-End
+
+- Front-End: React, Styled-Components, JSX
+- Back-End: Node.js, TypeScript, Express
+- Banco de Dados: PostgreSQL e Bancos não relacionais
+- APIs e Consumo de Dados: Axios, Postman
 - Segurança da Informação
-- Engenharia de Software
-- Desenvolvimento Mobile
-- APIs e consumo de dados
+- Engenharia e Qualidade de Software
+- Git e Controle de Versão: GitHub
+- Desenvolvimento Mobile e Web
+- Testes e Depuração
 
 ## 📄 Licença
 
